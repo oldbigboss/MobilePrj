@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="PositiveButton" parent="@android:style/Widget.Button">
+        <item name="android:textAllCaps">false</item>
+        <item name="android:background">@drawable/bg_shape_outline_rounded</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+</resources>

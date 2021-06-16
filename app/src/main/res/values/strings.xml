@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">mobileprj</string>
+    <string name="next">Далее</string>
+    <string name="pick_up_your_route">Выберите маршрут</string>
+    <string name="from">Откуда</string>
+    <string name="to">Куда</string>
+    <string name="please_pick_your_destination">Пожалуйста, укажите точки маршрута</string>
+    <string name="an_error_occurred">Произошла ошибка, нажмите, чтобы повторить</string>
+    <string name="please_pick_different_cities">Пожалуйста, укажите разные города</string>
+    <!--Утащил из репозитория какого-то индуса, можно тащить в пет проджекты-->
+    <string name="map_api">AIzaSyA25X4egRvUBLCMoBS1HrNYTnfYktap1tM"</string>
+</resources>
